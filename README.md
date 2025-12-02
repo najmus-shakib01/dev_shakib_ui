@@ -1,16 +1,8 @@
-# dev_shakib_ui
+# Referral Program Registration Screen
 
 A new Flutter project.
 
-## Getting Started
+## Output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/4992b474-dec5-4292-8b45-59159a022618" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/cf4e8539-dc48-4845-bd7d-0e7159503903" />
