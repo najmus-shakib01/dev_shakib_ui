@@ -22,4 +22,4 @@ A new Flutter project.
 A new Flutter project.
 
 ## Output
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/26f52a26-e110-4d9f-9bc6-23451d14e45d" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/57355a3f-bb00-4926-81a0-c5072765b377" />
