@@ -1,4 +1,4 @@
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/b3d476ff-fc49-4d18-a438-70a44838c9ca" /># Referral Program Registration Screen
+# Referral Program Registration Screen
 
 A new Flutter project.
 
