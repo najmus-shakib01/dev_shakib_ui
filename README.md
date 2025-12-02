@@ -32,3 +32,11 @@ A new Flutter project.
 ## Output
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/5a63a7bf-28ea-41f0-bd27-c61ef6652e36" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/5afc3969-a72a-4480-a036-509d41cff216" />
+
+# Stripe Connect PaymentSetup Screen
+
+A new Flutter project.
+
+## Output
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/a5a490fe-78ce-4124-9277-0f0ed0c16fab" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/96053ad1-2c51-4a66-93ca-e85de4474e5c" />
