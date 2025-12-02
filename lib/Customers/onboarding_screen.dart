@@ -218,6 +218,7 @@ class _OnboardModel {
 }
 
 class _OnboardingColors {
+  // ignore: unused_field
   static const Color background = Color(0xFFF5F5F5);
   static const Color primaryOrange = Color(0xFFFF6A00);
   static const Color inactiveDot = Color(0xFFFFD4A8);
