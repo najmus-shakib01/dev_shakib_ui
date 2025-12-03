@@ -65,3 +65,10 @@ A new Flutter project.
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/6dc36c2d-3d45-4fda-a883-352e592ff384" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/f546b0e8-19f1-4e19-a9d6-ebbc5eb46b38" />
 
+# Help And FAQ Screen
+
+A new Flutter project.
+
+## Output
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/c0db56ed-2633-4ec8-83db-3c3405a5b41b" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/4114ea76-e00c-45b6-94d7-4da7ac218357" />
