@@ -359,7 +359,7 @@ class SupportContactBox extends StatelessWidget {
               ),
               child: const Text(
                 "Contact Support",
-                style: TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
+                style: TextStyle(color: Color(0xFFFFFFFF)),
               ),
             ),
           ),
