@@ -80,3 +80,11 @@ A new Flutter project.
 ## Output
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/f3b464dd-6a83-453e-9a5b-3f6f2318b7af" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/528ca0b2-ddc4-4b99-ba82-c9157e2ff03b" />
+
+# Company Insight Page
+
+A new Flutter project.
+
+## Output
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/0871fafa-db3f-4f20-9419-41af38c2900b" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/e2184f23-cd19-403b-ae43-85dbdabab78c" />
