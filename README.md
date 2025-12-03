@@ -48,3 +48,11 @@ A new Flutter project.
 ## Output
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/7ced35fe-3f35-4c92-b51c-9aefd5f3d027" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/f2cbdabe-642f-4f61-b56a-195817cb24d4" />
+
+# Referral Composition Screen
+
+A new Flutter project.
+
+## Output
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/1e867932-8a48-4ec1-a6d1-cccdf925c1eb" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/1b7f17aa-2072-46f5-8ebf-d85ddb9a653e" />
