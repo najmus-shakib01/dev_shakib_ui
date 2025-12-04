@@ -6,7 +6,7 @@ A new Flutter project.
 
 ## Output
 
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/4992b474-dec5-4292-8b45-59159a022618" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/d471ac6e-9f34-40e4-8455-a623864eb903" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/cf4e8539-dc48-4845-bd7d-0e7159503903" />
 
 # Terms & Service
