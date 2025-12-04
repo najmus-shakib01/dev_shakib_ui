@@ -10,7 +10,6 @@ class ProfileCompletionForm extends StatelessWidget {
       body: SafeArea(
         child: SingleChildScrollView(
           child: Column(
-          
             children: [
               const SizedBox(height: 10),
               const IconHeader(),
@@ -200,6 +199,7 @@ class _NotificationCheckboxState extends State<NotificationCheckbox> {
           value: value,
           onChanged: (v) => setState(() => value = v ?? false),
           activeColor: const Color(0xFFFF6E2E),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
         ),
         const Expanded(
           child: Text(
