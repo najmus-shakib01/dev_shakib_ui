@@ -14,7 +14,7 @@ A new Flutter project.
 A new Flutter project.
 
 ## Output
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/7700a668-cf65-434e-998e-5b4b456c4557" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/eb8fe165-a498-40fe-bf10-27ecd8102769" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/5c7bcd15-a33c-48ea-98ce-a0ebeabc7e11" />
 
 # Onboarding Screen
