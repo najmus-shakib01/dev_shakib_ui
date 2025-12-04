@@ -22,8 +22,8 @@ A new Flutter project.
 A new Flutter project.
 
 ## Output
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/57355a3f-bb00-4926-81a0-c5072765b377" />
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/bfb81726-43a0-4975-a268-824349fd0a07" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/62dfa7f9-318b-412f-ba97-8c8b0bbcc080" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/2d384c9f-5818-463e-9f75-5fe04598b932" />
 
 # Profile Completion Form
 
