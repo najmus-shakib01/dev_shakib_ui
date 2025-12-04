@@ -21,16 +21,14 @@ class TermsOfServiceScreen extends StatelessWidget {
                   children: [
                     const SizedBox(height: 10),
 
-                    /// ICON CIRCLE SECTION
                     const _TopIconSection(),
 
                     const SizedBox(height: 16),
 
-                    /// TITLE
                     Text(
                       "Terms of Service",
                       style: TextStyle(
-                        fontSize: 26, // approx
+                        fontSize: 26,
                         fontWeight: FontWeight.w700,
                         color: Colors.black87,
                       ),
@@ -46,14 +44,12 @@ class TermsOfServiceScreen extends StatelessWidget {
 
                     const SizedBox(height: 20),
 
-                    /// CONTENT BOX
                     const _TermsContentBox(),
                   ],
                 ),
               ),
             ),
 
-            /// BUTTON
             const _BottomButton(),
           ],
         ),
@@ -62,34 +58,24 @@ class TermsOfServiceScreen extends StatelessWidget {
   }
 }
 
-//
-// ──────────────────────────────── TOP ICON ────────────────────────────────
-//
-
 class _TopIconSection extends StatelessWidget {
   const _TopIconSection();
 
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 90,
-      height: 90,
-      decoration: BoxDecoration(
-        color: const Color(0xFFFFE7C2), // approx
-        shape: BoxShape.circle,
-      ),
-      child: const Icon(
-        Icons.description_outlined,
-        size: 40,
-        color: Color(0xFFFF8C00), // approx
+      width: 120,
+      height: 120,
+      decoration: const BoxDecoration(shape: BoxShape.circle),
+      child: ClipOval(
+        child: Image.asset(
+          "assets/terms_service/icon/pen.png",
+          fit: BoxFit.cover,
+        ),
       ),
     );
   }
 }
-
-//
-// ───────────────────────────── TERMS CONTENT BOX ─────────────────────────────
-//
 
 class _TermsContentBox extends StatelessWidget {
   const _TermsContentBox();
@@ -163,10 +149,6 @@ class _TermsContentBox extends StatelessWidget {
   }
 }
 
-//
-// ─────────────────────────────── TERM ITEM ───────────────────────────────
-//
-
 class _TermItem extends StatelessWidget {
   final String title;
   final String description;
@@ -180,10 +162,7 @@ class _TermItem extends StatelessWidget {
       children: [
         Text(
           title,
-          style: const TextStyle(
-            fontSize: 18, // approx
-            fontWeight: FontWeight.w700,
-          ),
+          style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
         ),
         const SizedBox(height: 6),
         Text(
@@ -194,10 +173,6 @@ class _TermItem extends StatelessWidget {
     );
   }
 }
-
-//
-// ────────────────────────────── BOTTOM BUTTON ─────────────────────────────
-//
 
 class _BottomButton extends StatelessWidget {
   const _BottomButton();
@@ -214,7 +189,7 @@ class _BottomButton extends StatelessWidget {
             child: ElevatedButton(
               onPressed: () {},
               style: ElevatedButton.styleFrom(
-                backgroundColor: const Color(0xFFFF7A00), // approx button color
+                backgroundColor: const Color(0xFFFF7A00),
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(14),
                 ),
