@@ -71,8 +71,9 @@ A new Flutter project.
 A new Flutter project.
 
 ## Output
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/c0db56ed-2633-4ec8-83db-3c3405a5b41b" />
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/4114ea76-e00c-45b6-94d7-4da7ac218357" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/c65cb4ac-02aa-426f-9a7c-183322fba3f3" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/8295481d-8717-4813-9d10-19249ba5a045" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/435c87c7-ae88-4cf9-ad17-527180886835" />
 
 # Notification Settings Screen
 
