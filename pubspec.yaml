@@ -33,3 +33,5 @@ flutter:
     - assets/onboarding_screen/image/
     - assets/referral_contact_section_screen/icon/
     - assets/referral_contact_section_screen/image/
+    - assets/referral_composition_screen/icon/
+    - assets/referral_composition_screen/image/
