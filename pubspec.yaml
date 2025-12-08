@@ -47,3 +47,5 @@ flutter:
     - assets/referral_earnings_dashboard/image/
     - assets/company_selection/icon/
     - assets/company_selection/image/
+    - assets/company_single_screen/icon/
+    - assets/company_single_screen/image/
