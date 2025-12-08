@@ -92,6 +92,15 @@ A new Flutter project.
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/05f9b61a-a412-4c76-b2bc-6328e27508ec" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/01d4a9ac-88c6-4f8c-96e6-2b5b6a3e9a2e" />
 
+# Referral Earnings Dashboard
+
+A new Flutter project.
+
+## Output
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/fb401992-a5a9-417e-9acf-9a8119c8c116" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/8724b99a-fa98-42a5-9b8e-63865c82e1ab" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/6b60ce52-3081-4803-8c54-5621a40202d6" />
+
 # Company Selection
 
 A new Flutter project.
