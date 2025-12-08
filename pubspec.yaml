@@ -51,3 +51,5 @@ flutter:
     - assets/company_single_screen/image/
     - assets/referral_tracking_deshboard/icon/
     - assets/referral_tracking_deshboard/image/
+    - assets/referral_details_screen/icon/
+    - assets/referral_details_screen/image/
